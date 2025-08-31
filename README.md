@@ -127,9 +127,9 @@ Contributions are welcome! 🎉
 ## 👨‍💻 Author
 
 **Hussain Ali**
-📧 Email: [choudaryhussainali@outlook.com](mailto:choudaryhussainali@outlook.com)
-💼 LinkedIn: [Choudary Hussain Ali](https://www.linkedin.com/in/ch-hussain-ali/)
-🌐 GitHub: [choudaryhussainali](https://github.com/choudaryhussainali)
+- 📧 Email: [choudaryhussainali@outlook.com](mailto:choudaryhussainali@outlook.com)
+- 💼 LinkedIn: [Choudary Hussain Ali](https://www.linkedin.com/in/ch-hussain-ali/)
+- 🌐 GitHub: [choudaryhussainali](https://github.com/choudaryhussainali)
 
 ---
 
