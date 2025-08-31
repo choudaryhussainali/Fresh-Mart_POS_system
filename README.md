@@ -102,7 +102,7 @@ streamlit run app.py
 
 ---
 
-## 🔮 Future Enhancements
+## 🔮 Future Enhancements Possible
 
 * 📥 **Download Invoice as PDF**
 * 🖨 **Print Invoice directly from the app**
