@@ -6,6 +6,8 @@
 ![Last Commit](https://img.shields.io/github/last-commit/choudaryhussainali/Fresh-Mart_POS_system)
 ![Issues](https://img.shields.io/github/issues/choudaryhussainali/Fresh-Mart_POS_system)
 ![Stars](https://img.shields.io/github/stars/choudaryhussainali/Fresh-Mart_POS_system?style=social)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://freshmart-pos.streamlit.app)
+
 
 ---
 
